@@ -1,0 +1,15 @@
+{
+  "name": "plorth",
+  "version": "1.0.0-alpha.4",
+  "description": "WebAssembly version of Plorth programming language",
+  "main": "index.js",
+  "author": "Rauli Laine <rauli.laine@iki.fi>",
+  "license": "BSD-2-Clause",
+  "engines": {
+    "node": ">=8.4.0"
+  },
+  "files": [
+    "index.js",
+    "plorth.wasm"
+  ]
+}
