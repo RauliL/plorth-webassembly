@@ -10,6 +10,8 @@
   },
   "files": [
     "index.js",
+    "index.d.ts",
     "plorth.wasm"
-  ]
+  ],
+  "types": "./index.d.ts"
 }
