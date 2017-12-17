@@ -1,4 +1,7 @@
-# WebAssembly Plorth
+# WebAssembly Plorth [![npm][npm-image]][npm-url]
+
+[npm-image]: https://img.shields.io/npm/v/plorth.svg
+[npm-url]: https://npmjs.org/package/plorth
 
 [Plorth] interpreter as WebAssembly module, compiled with [Emscripten].
 
