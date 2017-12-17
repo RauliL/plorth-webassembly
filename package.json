@@ -8,6 +8,14 @@
   "engines": {
     "node": ">=8.4.0"
   },
+  "homepage": "https://github.com/RauliL/plorth-webassembly#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RauliL/plorth-webassembly.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RauliL/plorth-webassembly/issues"
+  },
   "files": [
     "index.js",
     "index.d.ts",
