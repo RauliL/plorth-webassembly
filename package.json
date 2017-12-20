@@ -1,6 +1,6 @@
 {
   "name": "plorth",
-  "version": "1.0.0-alpha.6",
+  "version": "1.0.0-alpha.7",
   "description": "WebAssembly version of Plorth programming language",
   "main": "index.js",
   "author": "Rauli Laine <rauli.laine@iki.fi>",
